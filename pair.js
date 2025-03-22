@@ -76,7 +76,7 @@ router.get('/', async (req, res) => {
                     await GlobalTechInc.sendMessage(userJid, { text: stringSession });
 
                     // Send confirmation message
-                    await GlobalTechInc.sendMessage(userJid, { text: 'Hello  Thanks for choosing Keith Md🗿🗿 \n' });
+                    await GlobalTechInc.sendMessage(userJid, { text: 'Yoh gee this is MSNAPDRAGON JET MD Welcome \n' });
 
 
                     // Clean up session after use
